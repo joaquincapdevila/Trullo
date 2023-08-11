@@ -7,9 +7,7 @@ import Header from "./components/header/header";
 function App() {
   return (
     <>
-      <div className="">
-        <p className="">hola</p>
-      </div>
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
       <Header />
     </>
   );
